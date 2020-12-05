@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-modal-frame-motion/static/css/main.e0bb912e.chunk.css",
+    "main.js": "/react-modal-frame-motion/static/js/main.97ca989d.chunk.js",
+    "main.js.map": "/react-modal-frame-motion/static/js/main.97ca989d.chunk.js.map",
+    "runtime-main.js": "/react-modal-frame-motion/static/js/runtime-main.e526e88b.js",
+    "runtime-main.js.map": "/react-modal-frame-motion/static/js/runtime-main.e526e88b.js.map",
+    "static/js/2.6223b5ad.chunk.js": "/react-modal-frame-motion/static/js/2.6223b5ad.chunk.js",
+    "static/js/2.6223b5ad.chunk.js.map": "/react-modal-frame-motion/static/js/2.6223b5ad.chunk.js.map",
+    "index.html": "/react-modal-frame-motion/index.html",
+    "static/css/main.e0bb912e.chunk.css.map": "/react-modal-frame-motion/static/css/main.e0bb912e.chunk.css.map",
+    "static/js/2.6223b5ad.chunk.js.LICENSE.txt": "/react-modal-frame-motion/static/js/2.6223b5ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e526e88b.js",
+    "static/js/2.6223b5ad.chunk.js",
+    "static/css/main.e0bb912e.chunk.css",
+    "static/js/main.97ca989d.chunk.js"
+  ]
+}
